@@ -1,0 +1,23 @@
+.Navbar-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+  background-color: grey;
+}
+
+.Navbar-nav a {
+  padding: 2rem;
+  color: white;
+  text-decoration: none;
+}
+
+.Navbar-nav a:hover {
+  color: sienna;
+  font-weight: bold;
+}
+
+.Navbar-nav .active-link {
+  font-weight: bold;
+  color: gold;
+}

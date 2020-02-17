@@ -1,0 +1,29 @@
+.VendingMachine {
+  display: flex;
+  width: 80%;
+}
+
+.VendingMachine-display img {
+  height: 800px;
+}
+
+.VendingMachine-menu {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: flex-end;
+  margin-right: 1rem;
+  padding-right: 1rem;
+  margin-bottom: 5rem;
+}
+
+.VendingMachine-selection {
+  display: flex;
+  align-items: center;
+  width: 10%;
+}
+
+.VendingMachine-selection ul {
+  list-style-type: none;
+  font-size: 2rem;
+}
