@@ -1,0 +1,17 @@
+.Candy {
+  display: flex;
+  flex-direction: column;
+}
+
+.Candy-img {
+  align-self: center;
+}
+
+.Candy-img img {
+  height: 600px;
+}
+
+.Candy h2 {
+  width: 90%;
+  text-align: right;
+}

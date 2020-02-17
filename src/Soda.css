@@ -1,0 +1,13 @@
+.Soda {
+  display: flex;
+  flex-direction: column;
+}
+
+.Soda-img {
+  align-self: center;
+}
+
+.Soda h2 {
+  width: 90%;
+  text-align: right;
+}

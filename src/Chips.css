@@ -1,0 +1,13 @@
+.Chips {
+  display: flex;
+  flex-direction: column;
+}
+
+.Chips-img {
+  align-self: center;
+}
+
+.Chips h2 {
+  width: 90%;
+  text-align: right;
+}
